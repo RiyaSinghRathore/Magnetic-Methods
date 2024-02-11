@@ -43,6 +43,7 @@ markdown_content = f"""\
 <h4 style="text-align: center; font-family: 'Courier New'; margin-bottom: 0;">{current_date}</h4>
 <h4 style="text-align: center; font-family: 'Courier New'; margin-bottom: 0;">Name: Riya Singh Rathore</h4>
 <h4 style="text-align: center; font-family: 'Courier New';">Admission Number: 20JE0801</h4>
+<h4 style="text-align: center; font-family: 'Times New Roman';">Visit: <a href="https://github.com/RiyaSinghRathore/Magnetic-Methods";">https://github.com/RiyaSinghRathore/Magnetic-Methods</a> for the Lab Repository</h4>
 
 </body>
 </html>
