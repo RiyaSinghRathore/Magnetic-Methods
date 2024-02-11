@@ -6,11 +6,11 @@ This repository contains a Python script to automatically generate Jupyter Noteb
 
 To use the script, follow these steps:
 
-1. **Clone the Repository**: Clone this repository to your local machine.
+1. Clone this repository to your local machine.
 
-2. **Navigate to the Directory**: Change your directory to the cloned repository.
+2. Navigate your directory to the cloned repository.
 
-3. **Run the Script**: Execute the Python script `create.py` in your terminal or command prompt.
+3. Execute the Python script `create.py` in your terminal or command prompt.
 
     ```
     python3 create.py --<practical_number> --<topic>
@@ -23,7 +23,9 @@ To use the script, follow these steps:
     python3 create.py --3 --"Magnetic Data Processing"
     ```
 
-5. **Open the Jupyter Notebook**: Once the script has run successfully, you will find a new Jupyter Notebook file named `P<practical_number>.ipynb` in the repository directory. Open this notebook in Jupyter Lab or Jupyter Notebook to view the generated content.
+5. Once the script has run successfully, you will find a new Jupyter Notebook file named `P<practical_number>.ipynb` in the repository directory. Open this notebook in Jupyter Lab or Jupyter Notebook to view the generated content.
+   
+6. Edit `create.py` for custom Jupyter Notebooks!
 
 
 Feel free to explore and experiment with the practicals using this script! If you encounter any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
