@@ -23,7 +23,7 @@ To use the script, follow these steps:
     python3 create.py --3 --"Magnetic Data Processing"
     ```
 
-5. Once the script has run successfully, you will find a new Jupyter Notebook file named `P<practical_number>.ipynb` in the repository directory. Open this notebook in Jupyter Lab or Jupyter Notebook to view the generated content.
+5. Once the script has run successfully, you will find a new Jupyter Notebook file named `P{practical_number}_{topic}.ipynb` (Example: `P3_Magnetic Data Processing`) in the repository directory. Open this notebook in Jupyter Lab or Jupyter Notebook to view the generated content.
    
 6. Edit `create.py` for custom Jupyter Notebooks!
 
