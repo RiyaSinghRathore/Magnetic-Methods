@@ -18,7 +18,7 @@ def create(practical_number, topic):
         sys.exit(1)
 
     # Construct file name
-    file_name = f"P{practical_number}.ipynb"
+    file_name = f"P{practical_number}_{topic}.ipynb"
 
     current_date = datetime.now().strftime("%B %d, %Y")
 
