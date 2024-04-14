@@ -42,7 +42,7 @@ Feel free to explore and experiment with the practicals using this script! If yo
 | 6       | 2024-02-05 | Natural Language Processing | [](path/to/practical6.ipynb) |
 | 7       | 2024-02-12 | Compute and plot the residual magnetic anomaly along the given magnetic profile data using the polynomial regression (LSM) technique. Also, write your comments on residual and polynomial regression anomaly plots. | [](path/to/practical7.ipynb) |
 | 8       | 2024-02-19 | Discuss the effect of magnetic inclination (i) and depth (z) of the sphere body on the total magnetic anomaly profiles. Assume that magnetization only due to induction. | [](path/to/practical8.ipynb) |
-| 9       | 2024-02-26 | Discuss the effect of depth (Z), width (T) and direction of arbitrary magnetization (Q) of dyke on the total magnetic anomaly profiles. Assume that magnetization only due to induction. | []([path/to/practical9.ipynb](https://github.com/RiyaSinghRathore/Magnetic-Methods/blob/main/P1_Data%20Analysis.ipynb)) |
+| 9       | 2024-02-26 | Discuss the effect of depth (Z), width (T) and direction of arbitrary magnetization (Q) of dyke on the total magnetic anomaly profiles. Assume that magnetization only due to induction. | [P9_Dyke Anomaly Profiles]([path/to/practical9.ipynb](https://github.com/RiyaSinghRathore/Magnetic-Methods/blob/main/P1_Data%20Analysis.ipynb)) |
 
 
 
