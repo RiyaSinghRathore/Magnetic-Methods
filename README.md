@@ -1,20 +1,5 @@
 # GPC522: Magnetic Methods Lab
 
-## Content
-
-| Sr. No. | Date       | Objective/Aim        | Link to .ipynb File |
-| ------- | ---------- | -------------------- | ------------------- |
-| 1       | 2024-01-01 | Introduction to XYZ  | [Link](path/to/practical1.ipynb) |
-| 2       | 2024-01-08 | Data Analysis with ABC | [Link](path/to/practical2.ipynb) |
-| 3       | 2024-01-15 | Machine Learning Basics | [Link](path/to/practical3.ipynb) |
-| 4       | 2024-01-22 | Neural Networks Fundamentals | [Link](path/to/practical4.ipynb) |
-| 5       | 2024-01-29 | Image Processing Techniques | [Link](path/to/practical5.ipynb) |
-| 6       | 2024-02-05 | Natural Language Processing | [Link](path/to/practical6.ipynb) |
-| 7       | 2024-02-12 | Reinforcement Learning | [Link](path/to/practical7.ipynb) |
-| 8       | 2024-02-19 | Deep Learning Applications | [Link](path/to/practical8.ipynb) |
-| 9       | 2024-02-26 | Computer Vision Projects | [Link](path/to/practical9.ipynb) |
-
-
 This repository contains a Python script to automatically generate Jupyter Notebook files for conducting practicals in the Magnetic Methods Lab.
 
 ## Usage
@@ -44,6 +29,20 @@ To use the script, follow these steps:
 
 
 Feel free to explore and experiment with the practicals using this script! If you encounter any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
+
+## Content
+
+| Sr. No. | Date       | Objective/Aim        | Link to .ipynb File |
+| ------- | ---------- | -------------------- | ------------------- |
+| 1       | 2024-01-01 | Introduction to XYZ  | [](path/to/practical1.ipynb) |
+| 2       | 2024-01-08 | Data Analysis with ABC | [](path/to/practical2.ipynb) |
+| 3       | 2024-01-15 | Machine Learning Basics | [](path/to/practical3.ipynb) |
+| 4       | 2024-01-22 | Neural Networks Fundamentals | [](path/to/practical4.ipynb) |
+| 5       | 2024-01-29 | Image Processing Techniques | [](path/to/practical5.ipynb) |
+| 6       | 2024-02-05 | Natural Language Processing | [](path/to/practical6.ipynb) |
+| 7       | 2024-02-12 | Reinforcement Learning | [](path/to/practical7.ipynb) |
+| 8       | 2024-02-19 | Deep Learning Applications | [](path/to/practical8.ipynb) |
+| 9       | 2024-02-26 | Computer Vision Projects | [](path/to/practical9.ipynb) |
 
 
 
