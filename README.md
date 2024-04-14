@@ -38,7 +38,7 @@ Feel free to explore and experiment with the practicals using this script! If yo
 | 2       | 2024-01-08 | Data Analysis with ABC | [](path/to/practical2.ipynb) |
 | 3       | 2024-01-15 | Machine Learning Basics | [](path/to/practical3.ipynb) |
 | 4       | 2024-01-22 | Neural Networks Fundamentals | [](path/to/practical4.ipynb) |
-| 5       | 2024-01-29 | Image Processing Techniques | [](P5_Magnetic Data Processing II.ipynb) |
+| 5       | 2024-01-29 | Image Processing Techniques | [P5](P5_Magnetic Data Processing II.ipynb) |
 | 6       | 2024-02-05 | Natural Language Processing | [](path/to/practical6.ipynb) |
 | 7       | 2024-02-12 | Compute and plot the residual magnetic anomaly along the given magnetic profile data using the polynomial regression (LSM) technique. Also, write your comments on residual and polynomial regression anomaly plots. | [](path/to/practical7.ipynb) |
 | 8       | 2024-02-19 | Discuss the effect of magnetic inclination (i) and depth (z) of the sphere body on the total magnetic anomaly profiles. Assume that magnetization only due to induction. | [](path/to/practical8.ipynb) |
